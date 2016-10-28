@@ -1,0 +1,3 @@
+test/plainDemoTest.class
+test/InitialSeedRestIntegrationTest.class
+test/utils/EmbeddedTomcat.class
